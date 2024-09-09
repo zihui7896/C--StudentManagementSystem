@@ -11,8 +11,12 @@ namespace StudentManagementSystem
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-           // Application.Run(new loginForm());
-           Application.Run(new studentManagementForm());
+             Application.Run(new loginForm());
+            Application.Run(new adminForm());
+            Application.Run(new studentCourseSelectionForm());
+            Application.Run(new teachersInformationForm1());
+            Application.Run(new studentInformationForm());
+            Application.Run(new MyCourseSelectionForm());
         }
     }
 }

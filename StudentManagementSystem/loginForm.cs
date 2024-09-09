@@ -39,7 +39,7 @@ namespace StudentManagementSystem
         {
             if (pictureBox1.Location.X < 280)
             {
-                pictureBox1.Location = new Point(pictureBox1.Location.X + 2, pictureBox1.Location.Y);
+                pictureBox1.Location = new Point(pictureBox1.Location.X + 5, pictureBox1.Location.Y);
                 usernameLabel.Visible = false;
                 passwordLabel.Visible = false;
                 permissionsComboBox.Visible = false;
@@ -52,7 +52,9 @@ namespace StudentManagementSystem
             {
                 timer1.Stop();
                 studentManagementForm studentManagementForm = new studentManagementForm();
-
+                this.Hide();
+                studentManagementForm.Show();
+                //Application.ExitThread();
             }
              
         }

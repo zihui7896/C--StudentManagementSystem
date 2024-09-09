@@ -63,7 +63,7 @@
             menuStrip1.Items.AddRange(new ToolStripItem[] { 系统ToolStripMenuItem, 信息管理ToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(1134, 39);
+            menuStrip1.Size = new Size(993, 39);
             menuStrip1.TabIndex = 0;
             menuStrip1.Text = "menuStrip1";
             // 
@@ -115,9 +115,9 @@
             // 
             statusStrip1.ImageScalingSize = new Size(32, 32);
             statusStrip1.Items.AddRange(new ToolStripItem[] { toolStripStatusLabel1, toolStripStatusLabel2, toolStripStatusTimeLabel });
-            statusStrip1.Location = new Point(0, 566);
+            statusStrip1.Location = new Point(0, 501);
             statusStrip1.Name = "statusStrip1";
-            statusStrip1.Size = new Size(1134, 41);
+            statusStrip1.Size = new Size(993, 41);
             statusStrip1.TabIndex = 1;
             statusStrip1.Text = "statusStrip1";
             // 
@@ -130,7 +130,7 @@
             // toolStripStatusLabel2
             // 
             toolStripStatusLabel2.Name = "toolStripStatusLabel2";
-            toolStripStatusLabel2.Size = new Size(944, 31);
+            toolStripStatusLabel2.Size = new Size(803, 31);
             toolStripStatusLabel2.Spring = true;
             // 
             // toolStripStatusTimeLabel
@@ -138,6 +138,7 @@
             toolStripStatusTimeLabel.Name = "toolStripStatusTimeLabel";
             toolStripStatusTimeLabel.Size = new Size(65, 31);
             toolStripStatusTimeLabel.Text = "time";
+            toolStripStatusTimeLabel.Click += toolStripStatusTimeLabel_Click;
             // 
             // toolStrip1
             // 
@@ -145,7 +146,7 @@
             toolStrip1.Items.AddRange(new ToolStripItem[] { toolStripButton1, toolStripButton2, toolStripButton3 });
             toolStrip1.Location = new Point(0, 39);
             toolStrip1.Name = "toolStrip1";
-            toolStrip1.Size = new Size(1134, 42);
+            toolStrip1.Size = new Size(993, 42);
             toolStrip1.TabIndex = 2;
             toolStrip1.Text = "toolStrip1";
             // 
@@ -187,14 +188,13 @@
             dataGridView1.AllowUserToOrderColumns = true;
             dataGridView1.AllowUserToResizeColumns = false;
             dataGridView1.AllowUserToResizeRows = false;
-            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Columns.AddRange(new DataGridViewColumn[] { usernameColumn, studentNumberColumn, ageColumn1, classColumn });
             dataGridView1.Dock = DockStyle.Fill;
             dataGridView1.Location = new Point(0, 81);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 82;
-            dataGridView1.Size = new Size(1134, 485);
+            dataGridView1.Size = new Size(993, 420);
             dataGridView1.TabIndex = 3;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
@@ -203,30 +203,34 @@
             usernameColumn.HeaderText = "姓名";
             usernameColumn.MinimumWidth = 10;
             usernameColumn.Name = "usernameColumn";
+            usernameColumn.Width = 227;
             // 
             // studentNumberColumn
             // 
             studentNumberColumn.HeaderText = "学号";
             studentNumberColumn.MinimumWidth = 10;
             studentNumberColumn.Name = "studentNumberColumn";
+            studentNumberColumn.Width = 228;
             // 
             // ageColumn1
             // 
             ageColumn1.HeaderText = "年龄";
             ageColumn1.MinimumWidth = 10;
             ageColumn1.Name = "ageColumn1";
+            ageColumn1.Width = 227;
             // 
             // classColumn
             // 
             classColumn.HeaderText = "班级";
             classColumn.MinimumWidth = 10;
             classColumn.Name = "classColumn";
+            classColumn.Width = 227;
             // 
             // studentManagementForm
             // 
             AutoScaleDimensions = new SizeF(14F, 31F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1134, 607);
+            ClientSize = new Size(993, 542);
             Controls.Add(dataGridView1);
             Controls.Add(toolStrip1);
             Controls.Add(statusStrip1);

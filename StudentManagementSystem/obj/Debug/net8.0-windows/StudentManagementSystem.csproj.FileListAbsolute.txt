@@ -35,3 +35,8 @@ D:\zihui\c#-code\mycode\StudentManagementSystem-Csharp\StudentManagementSystem\o
 D:\zihui\c#-code\mycode\StudentManagementSystem-Csharp\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.pdb
 D:\zihui\c#-code\mycode\StudentManagementSystem-Csharp\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.genruntimeconfig.cache
 D:\zihui\c#-code\mycode\StudentManagementSystem-Csharp\StudentManagementSystem\obj\Debug\net8.0-windows\ref\StudentManagementSystem.dll
+D:\zihui\c#-code\mycode\StudentManagementSystem-Csharp\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.studentInformationForm.resources
+D:\zihui\c#-code\mycode\StudentManagementSystem-Csharp\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.studentCourseSelectionForm.resources
+D:\zihui\c#-code\mycode\StudentManagementSystem-Csharp\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.adminForm.resources
+D:\zihui\c#-code\mycode\StudentManagementSystem-Csharp\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.MyCourseSelectionForm.resources
+D:\zihui\c#-code\mycode\StudentManagementSystem-Csharp\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.teachersInformationForm1.resources

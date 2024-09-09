@@ -29,5 +29,10 @@ namespace StudentManagementSystem
         {
 
         }
+
+        private void toolStripStatusTimeLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
