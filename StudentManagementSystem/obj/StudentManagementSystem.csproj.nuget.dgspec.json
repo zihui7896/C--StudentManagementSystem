@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj": {}
+    "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem-Csharp\\StudentManagementSystem\\StudentManagementSystem.csproj": {}
   },
   "projects": {
-    "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj": {
+    "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem-Csharp\\StudentManagementSystem\\StudentManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
+        "projectUniqueName": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem-Csharp\\StudentManagementSystem\\StudentManagementSystem.csproj",
         "projectName": "StudentManagementSystem",
-        "projectPath": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
+        "projectPath": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem-Csharp\\StudentManagementSystem\\StudentManagementSystem.csproj",
         "packagesPath": "C:\\Users\\zihui\\.nuget\\packages\\",
-        "outputPath": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\StudentManagementSystem\\obj\\",
+        "outputPath": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem-Csharp\\StudentManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\zihui\\VSSDK\\NuGetPackages"
