@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{740AA490-F080-4A9B-9459-9C797F9337B5}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\zihui\\c#-code\\mycode\\studentmanagementsystem\\studentmanagementsystem\\studentupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740AA490-F080-4A9B-9459-9C797F9337B5}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\studentupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740AA490-F080-4A9B-9459-9C797F9337B5}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\zihui\\c#-code\\mycode\\studentmanagementsystem\\studentmanagementsystem\\studentupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{740AA490-F080-4A9B-9459-9C797F9337B5}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\studentupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740AA490-F080-4A9B-9459-9C797F9337B5}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\studentmanagementsystem\\studentmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{740AA490-F080-4A9B-9459-9C797F9337B5}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\studentmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740AA490-F080-4A9B-9459-9C797F9337B5}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\zihui\\c#-code\\mycode\\studentmanagementsystem\\studentmanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740AA490-F080-4A9B-9459-9C797F9337B5}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740AA490-F080-4A9B-9459-9C797F9337B5}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\studentmanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{740AA490-F080-4A9B-9459-9C797F9337B5}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "studentUpdate.cs",
+              "DocumentMoniker": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\StudentManagementSystem\\studentUpdate.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\studentUpdate.cs",
+              "ToolTip": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\StudentManagementSystem\\studentUpdate.cs",
+              "RelativeToolTip": "StudentManagementSystem\\studentUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T02:51:19.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studentUpdate.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\StudentManagementSystem\\studentUpdate.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\studentUpdate.cs",
+              "ToolTip": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\StudentManagementSystem\\studentUpdate.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "StudentManagementSystem\\studentUpdate.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T02:43:22.595Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "studentManagementForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\StudentManagementSystem\\studentManagementForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\studentManagementForm.cs",
+              "ToolTip": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\StudentManagementSystem\\studentManagementForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "StudentManagementSystem\\studentManagementForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:54:44.301Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "loginForm.cs",
+              "DocumentMoniker": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\StudentManagementSystem\\loginForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\loginForm.cs",
+              "ToolTip": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\StudentManagementSystem\\loginForm.cs",
+              "RelativeToolTip": "StudentManagementSystem\\loginForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:22:46.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "loginForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\StudentManagementSystem\\loginForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\loginForm.cs",
+              "ToolTip": "D:\\zihui\\c#-code\\mycode\\StudentManagementSystem\\StudentManagementSystem\\loginForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "StudentManagementSystem\\loginForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:22:27.433Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
